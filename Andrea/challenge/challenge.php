@@ -132,7 +132,7 @@ $cars = array (
           echo "Price: ";
           echo $cars ['Nissan']['price'] .  "<br/>";
           echo "Location: ";
-          echo $cars ['Mustang']['location'] . "<br/>";
+          echo $cars ['Nissan']['location'] . "<br/>";
           echo "PS: ";
           echo $cars ['Nissan']['ps'] . "<br/>";
         ?>
