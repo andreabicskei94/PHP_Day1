@@ -1,0 +1,16 @@
+.card-decoration {
+    background-color: red;
+    margin: 4% 0;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+}
+
+.login-form {
+    width: 30%;
+    margin-left: 20px;
+}
+
+.card {
+    margin-left: 30px;
+    margin-right: 20px;
+}
